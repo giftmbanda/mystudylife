@@ -1,0 +1,33 @@
+{
+  "semester": 1,
+  "venue": {
+    "name": "Building 10-G01",
+    "location": "Building 10-G01",
+    "latitude": "-25.539561",
+    "longitude": "28.095686"
+  },
+  "courses": [
+      {
+        "name": "NATIONAL DIPLOMA: INFORMATION TECHNOLOGY",
+        "code": "NDIT12",
+        "subjects": [
+            {
+                "code": "CFS10AT",
+                "name": "Computing Fundamentals IA*"
+            },
+            {
+                "code": "CGS10AT",
+                "name": "Computing Systems IA*"
+            },
+            {
+                "code": "CMK10AT",
+                "name": "Computing Skills IA*"
+            },
+            {
+                "code": "DSO17AT",
+                "name": "Development Software IA"
+            }
+        ]
+      }
+  ]
+}
