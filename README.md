@@ -8,3 +8,4 @@
 6. From the projects root folder run `php artisan migrate`
 7. From the projects root folder run `composer dump-autoload`
 8. From the projects root folder run `php artisan db:seed`
+9. From the projects root folder run `php artisan serve`
